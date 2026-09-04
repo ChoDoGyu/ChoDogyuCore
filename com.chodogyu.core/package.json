@@ -1,0 +1,6 @@
+{
+  "name": "com.chodogyu.core",
+  "version": "0.1.0",
+  "displayName": "CDG Core",
+  "description": "Minimal foundation package for reusable CDG Unity packages."
+}
