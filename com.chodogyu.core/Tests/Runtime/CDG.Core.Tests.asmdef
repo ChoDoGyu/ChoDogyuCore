@@ -1,0 +1,11 @@
+{
+  "name": "CDG.Core.Tests",
+  "references": [
+    "CDG.Core"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
